@@ -1,0 +1,3 @@
+container = {
+  image = "travelperk/pythonpoc"
+}
